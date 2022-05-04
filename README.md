@@ -1,4 +1,6 @@
-##Welcome to Jordan Waxman's GitHub
+##Welcome to Jordan Waxman's GitHub 🤔⚡
+##Full of Web 3 :)
+##CEO Of Volcania.
 ![This is an image](https://github.com/jordanswax/jordanswax/blob/main/imgs/Background-last.jpg)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jordanswax&langs_count=8&theme=aura)](https://github.com/anuraghazra/github-readme-stats)
