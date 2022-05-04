@@ -1,5 +1,5 @@
 ##Welcome to Jordan Waxman's GitHub
-![alt text](https://github.com/jordanswax/jordanswax/main/imgs/Background-last.jpg?raw=true)
+![alt text](https://github.com/jordanswax/jordanswax/imgs/main/Background-last.jpg?raw=true)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jordanswax&langs_count=8&theme=aura)](https://github.com/anuraghazra/github-readme-stats)
