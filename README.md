@@ -1,5 +1,9 @@
-### Hi there 👋
---[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jordanswax&langs_count=8&theme=aura)](https://github.com/anuraghazra/github-readme-stats)
+##Welcome to Jordan Waxman's GitHub
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jordanswax&langs_count=8&theme=aura)](https://github.com/anuraghazra/github-readme-stats)
+<br/>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jordanswax&show_icons=true&theme=aura)
 <!--
 **jordanswax/jordanswax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
